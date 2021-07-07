@@ -1,2 +1,3 @@
-# minedigger.github.io
-Minedigger Web Site
+# megaf.github.io
+# megaf.info
+Megaf's WebSite.
